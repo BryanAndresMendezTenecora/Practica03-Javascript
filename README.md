@@ -10,7 +10,7 @@ OBJETIVO
 • Crear sitios web aplicando estándares actuales.
 
 a. Se debe validar qué, en el campo de la cedula, se ingrese sólo números y que la misma sea correcta, en base, al último dígito verificador.
-![](PracticaN3/informe/filename Nombres.jpg)
+![Nombres](https://user-images.githubusercontent.com/47094533/100159662-2c5c4900-2e7c-11eb-95e6-a5e869b16082.JPG)
 b. Se debe validar qué, en el campo del nombres, ingrese exclusivamente dos nombre y que permita ingresar sólo letras, por ejemplo: &quot;Gabriel Alejandro&quot;, es válido; &quot;Gabriel&quot;, no es válido.
 
 c. Se debe validar qué, en el campo del apellidos, ingrese exclusivamente dos apellidos y que permita ingresar sólo letras, por ejemplo: &quot;León Paredes&quot;, es válido; &quot;León&quot;, no es válido.
